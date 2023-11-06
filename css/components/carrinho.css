@@ -80,13 +80,11 @@ hr{
 }
 
 
-
-
 .button-without-background {
   background-color: transparent;
   border: none;
 }
 button:hover{
   cursor: pointer;
-
 }
+
