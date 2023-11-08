@@ -23,6 +23,12 @@
     font-weight: 500;
 }
 
+.Lat_img {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
 .Lat_img ul {
   
   color:  var(--white);
@@ -100,14 +106,14 @@ button:hover{
 .Boton_inicial{
   border-radius: 30px;
   background-color: var(--one-color);
-  width: 200px;
+  width: auto;
   height: 25px;
   display: flex;
   text-align: center;
   color: var(--black);
   font-weight: bold;
   font-size: 15px;
-  padding: 0.5px 1.5rem;
+  padding: 15px 10px;
   align-items: center;
 
 }
