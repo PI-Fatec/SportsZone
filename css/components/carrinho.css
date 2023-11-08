@@ -4,14 +4,16 @@
   stroke: var(--black);
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
   width: 100%;
-  height: 400px;
+  height: 50rem;
   flex-shrink: 0;
   margin: 0 auto;
+  
+
 }
 
 
 .titulo {
-  display: flexbox;
+  display: flex;
   justify-content: flex-start;
   color: var(--one-color);
   margin-left: 30px;
@@ -19,11 +21,12 @@
 
 .Lat_img ul {
   
-  
+  color:  var(--white);
   margin-top: 97px;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+  align-items: center;
   
 }
 
@@ -83,8 +86,24 @@ hr{
 .button-without-background {
   background-color: transparent;
   border: none;
+  
+  
 }
 button:hover{
   cursor: pointer;
 }
 
+.Boton_inicial{
+  border-radius: 30px;
+  background-color: var(--one-color);
+  width: 200px;
+  height: 25px;
+  display: flex;
+  text-align: center;
+  color: var(--black);
+  font-weight: bold;
+  font-size: 15px;
+  padding: 0.5px 1.5rem;
+  align-items: center;
+
+}
