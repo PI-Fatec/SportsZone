@@ -173,3 +173,20 @@
     top: 7px;
     right: 15px;
   }
+
+  @media only screen and (max-width: 1020px){
+    .search{
+      display: none;
+    }
+  }
+
+  @media only screen and (max-width: 744px){
+
+    .navbar .navbar1 .navbar_pesquisa .navbar_image2{
+      display: none;
+    }
+    .navbar .navbar1 .navbar_pesquisa .navbar_image3{
+      display: none;
+    }
+
+  }
