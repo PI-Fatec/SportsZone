@@ -24,7 +24,6 @@
 	font-weight: bold;
 }
 .inputlogin{
-	width: 90%;
 	height: 35px;
 	background: var(--two-color);
 	margin: 20px;
@@ -33,7 +32,7 @@
 }
 .buttonlogin{
 	width: 65%;
-	height: 40px;
+	height: 10%;
 	margin: 10px auto;
 	justify-content: center;
 	display: block;
@@ -41,12 +40,21 @@
 	background: var(--one-color);
 	font-size: 1.2em;
 	font-weight: bold;
-	margin-top: 20px;
 	border-radius: 5px;
 	cursor: pointer;
 }
 .buttonlogin:hover{
 	width: 75%;
-	height: 50px;
+	height: 11%;
 	font-size: 1.6em;
+}
+
+@media only screen and (max-width: 1120pt) {
+	.loginbox{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-direction: column;
+		height: auto;
+	}
 }
