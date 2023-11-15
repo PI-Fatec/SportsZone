@@ -49,7 +49,7 @@
 	font-size: 1.6em;
 }
 
-@media only screen and (max-width: 1120pt) {
+@media only screen and (max-width: 992px) {
 	.loginbox{
 		display: flex;
 		justify-content: center;
