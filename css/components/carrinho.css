@@ -32,7 +32,7 @@
 
 .titulo {
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
   color: var(--one-color);
   margin-left: 30px;
   font-family: var(--font-family);
