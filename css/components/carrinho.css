@@ -7,20 +7,6 @@
   height: 50rem;
   flex-shrink: 0;
   margin: 0 auto;
-  
-  
-
-}
-
-
-.titulo {
-  display: flex;
-  justify-content: flex-start;
-  color: var(--one-color);
-  margin-left: 30px;
-  font-family: var(--font-family);
-  font-size: 4rem;
-    font-weight: 500;
 }
 
 .Lat_img {
@@ -28,7 +14,6 @@
   justify-content: center;
   display: flex;
 }
-
 .Lat_img ul {
   
   color:  var(--white);
@@ -39,12 +24,22 @@
   align-items: center;
   
 }
-
 .Lat_img ul li {
   margin: 10px;
   margin-top: auto;
   
 }
+
+.titulo {
+  display: flex;
+  justify-content: center;
+  color: var(--one-color);
+  margin-left: 30px;
+  font-family: var(--font-family);
+  font-size: 4rem;
+    font-weight: 500;
+}
+
 
 .menu_compra {
   background-color: var(--white);
@@ -58,9 +53,7 @@
 }
 
 .compra_resumo {
-  margin-left: 40%;
-  display: flex;
-  align-items: center;
+  font-size: 1em;
   text-align: center;
   font-weight: bold;
   
