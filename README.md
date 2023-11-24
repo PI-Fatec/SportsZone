@@ -24,7 +24,7 @@ CSS e Html
 
 ## Pagina de login
 
-<img src =' assets/Readme/PaginaLogin.png '>
+<img src ='assets/Readme/PaginaLogin.png '>
 
 
 ## Pagina de produtos
@@ -51,5 +51,7 @@ CSS e Html
 
 <img src ='assets/Readme/Página Carrinho - Inacio.png'>
 
+# Link do site
 
 
+## <a href="https://sportszone-fatec.netlify.app">Sportszone</a>
