@@ -6,7 +6,7 @@ Trabalho da faculdade  (Fatec Franca - Curso DSM) - Loja de Artigos esportivos
 
 ## Inácio Santana
 
-## Jonathan Dias
+## Jhonatan Dias
 
 ## Rafael Gomes
 
